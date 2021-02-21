@@ -1,5 +1,4 @@
 import React from 'react';
-import Avatar from 'avatar-generator';
 import './App.css';
 const App = () => {
   return (
@@ -10,7 +9,7 @@ const App = () => {
       <div className="comment-section">
         <div className="top">
           <h4>Sam wilson</h4>
-          <span>Time:Today at 5:00</span>
+          <span>Today at 5:00</span>
         </div>
         <p className="act-comment">I Hate my Life!</p>
       </div>
